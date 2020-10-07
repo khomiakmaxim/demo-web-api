@@ -83,3 +83,4 @@ C:\Users\Maksym\source\repos\WebAPIDemoApp\DemoAPI\obj\Debug\DemoAPI.csproj.Core
 C:\Users\Maksym\source\repos\WebAPIDemoApp\DemoAPI\obj\Debug\DemoAPI.csproj.CopyComplete
 C:\Users\Maksym\source\repos\WebAPIDemoApp\DemoAPI\obj\Debug\DemoAPI.dll
 C:\Users\Maksym\source\repos\WebAPIDemoApp\DemoAPI\obj\Debug\DemoAPI.pdb
+C:\Users\Maksym\source\repos\WebAPIDemoApp\DemoAPI\bin\Documentation.xml
